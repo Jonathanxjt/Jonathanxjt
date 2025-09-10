@@ -1,4 +1,6 @@
 # 💫 About Me:
+I am a final-year Bachelor of Science (Information Systems) student at Singapore Management University, specialising in Business Analytics. Passionate about bridging technology and business, I am currently deepening my expertise in front-end and full-stack development, aspiring to grow into a web developer who can design scalable, user-friendly, and impactful digital solutions.
+
 🔭 I’m currently working on React-based LMS + CMS platform for interactive skill development, integrated with <br>Supabase  and gamification features, and soon to include a RAG chatbot for personalised, AI-assisted learning<br>🌱 I’m deepening my expertise in front-end development while building towards becoming a  well-rounded full-stack developer.<br>
 
 
